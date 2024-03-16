@@ -1,7 +1,5 @@
 
-<h1 text-align="center" style="color: #ff69b4">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Profile!+👋;+I'm+Raquel+Araujo!;" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fantasy&pause=1000&color=FF69B4&random=false&width=435&lines=Welcome+to+my+profile!;I'm+Raquel+Araujo" alt="Typing SVG" /></a>
 
 ### Contato
 
