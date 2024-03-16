@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fantasy&weight=500&size=35&pause=1000&color=FF69B4&random=false&width=435&lines=Welcome+to+my+profile!;I'm+Raquel+Araujo...;a+front+end+programmer+from+Brazil." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fantasy&weight=500&size=35&pause=1000&color=FF69B4&random=false&width=435&lines=Welcome+to+my+profile!;I'm+Raquel+Araujo...;A+front+end+programmer." alt="Typing SVG" /></a>
 
 ### Contato
 
