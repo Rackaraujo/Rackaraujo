@@ -1,4 +1,7 @@
-## Oii, me chamo Raquel Araujo e tenho 16 anos🤓
+
+<h1 text-align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Profile!+👋;+I'm+Raquel+Araujo!;" />
+</h1>
 
 ### Contato
 
