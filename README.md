@@ -10,11 +10,11 @@
 
 <div align="center>
     
-    📚 I'm currently studying at an ETEC.
+📚 I'm currently studying at an ETEC.
     
-    🖥️ I'm currently learning JavaScript, C#, and GML (GameMaker Language).
+🖥️ I'm currently learning JavaScript, C#, and GML (GameMaker Language).
     
-    🎮 Fun fact: I love games, especially Postal 2 and Sally Face.
+🎮 Fun fact: I love games, especially Postal 2 and Sally Face.
     
 </div>
 
