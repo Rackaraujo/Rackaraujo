@@ -12,23 +12,11 @@
  
  📚 I’m currently studying at an **ETEC**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🖥️ I’m currently learning **JavaScript, C#, GML**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🎮 Fun fact **I love games, especially Postal 2 and Sally Face**
 
  </div>
-
-<div align="center>
-    
-📚 I'm currently studying at an ETEC.
-    
-🖥️ I'm currently learning JavaScript, C#, and GML (GameMaker Language).
-    
-🎮 Fun fact: I love games, especially Postal 2 and Sally Face.
-    
-</div>
 
 
 ### Contato
